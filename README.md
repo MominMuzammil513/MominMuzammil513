@@ -94,7 +94,7 @@ I am a Software Developer with nearly two years of experience engineering enterp
 
 <!-- Animated Stats Cards (Tokyo Night Theme) -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Momin Muzammil&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF99" alt="GitHub Stats" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF99" alt="GitHub Stats" height="195" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF99&fire=00FF99&currStreakLabel=00FF99" alt="GitHub Streak" height="195" />
 </div>
 
