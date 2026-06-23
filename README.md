@@ -28,7 +28,7 @@
 ## 🌌 About My Engineering DNA
 I am a Software Developer with nearly two years of experience engineering enterprise-grade web architectures and immersive 3D user interfaces. I specialize in bridging the gap between heavy client-side computing and high-throughput data layers using modern JavaScript frameworks.
 
-- 🚀 **Core Focus:** Next.js, Three.js, React Three Fiber, and PostgreSQL[cite: 1].
+- 🚀 **Core Focus:** Next.js, Three.js, React Three Fiber, and PostgreSQL.
 - 🧠 **Superpower:** Optimizing client-side performance and engineering deterministic physics-based WebGL simulations.
 - 🤝 **Collaboration:** I build secure, multi-tenant architectures and robust end-to-end data validation frameworks.
 
@@ -57,10 +57,10 @@ I am a Software Developer with nearly two years of experience engineering enterp
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🏗️ Labor Planner (Enterprise 3D)</h3>
-      <p><i>Next.js, Three.js, React Three Fiber, PostgreSQL</i>[cite: 1]</p>
+      <p><i>Next.js, Three.js, React Three Fiber, PostgreSQL</i></p>
       <ul>
         <li><b>Spatial Optimization:</b> Engineered a browser-based layout editor with physics-based simulations for real-time collision boundaries.</li>
-        <li><b>Access Control:</b> Architected multi-tenant authentication for sharing dynamic, editable workspaces[cite: 1].</li>
+        <li><b>Access Control:</b> Architected multi-tenant authentication for sharing dynamic, editable workspaces.</li>
         <li><b>Automation:</b> Built a server-side engine to render and export structural design grids into high-fidelity PDFs with area measurements.</li>
       </ul>
     </td>
