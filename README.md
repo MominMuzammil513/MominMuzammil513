@@ -26,11 +26,11 @@
 </div>
 
 ## 🌌 About My Engineering DNA
-I am a Software Developer with nearly two years of experience engineering enterprise-grade web architectures and immersive 3D user interfaces. I specialize in bridging the gap between heavy client-side computing and high-throughput data layers using modern JavaScript frameworks[cite: 1].
+I am a Software Developer with nearly two years of experience engineering enterprise-grade web architectures and immersive 3D user interfaces. I specialize in bridging the gap between heavy client-side computing and high-throughput data layers using modern JavaScript frameworks.
 
 - 🚀 **Core Focus:** Next.js, Three.js, React Three Fiber, and PostgreSQL[cite: 1].
-- 🧠 **Superpower:** Optimizing client-side performance and engineering deterministic physics-based WebGL simulations[cite: 1].
-- 🤝 **Collaboration:** I build secure, multi-tenant architectures and robust end-to-end data validation frameworks[cite: 1].
+- 🧠 **Superpower:** Optimizing client-side performance and engineering deterministic physics-based WebGL simulations.
+- 🤝 **Collaboration:** I build secure, multi-tenant architectures and robust end-to-end data validation frameworks.
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/7wq/7wq/main/assets/line-dark.svg" width="100%">
@@ -59,28 +59,28 @@ I am a Software Developer with nearly two years of experience engineering enterp
       <h3 align="center">🏗️ Labor Planner (Enterprise 3D)</h3>
       <p><i>Next.js, Three.js, React Three Fiber, PostgreSQL</i>[cite: 1]</p>
       <ul>
-        <li><b>Spatial Optimization:</b> Engineered a browser-based layout editor with physics-based simulations for real-time collision boundaries[cite: 1].</li>
+        <li><b>Spatial Optimization:</b> Engineered a browser-based layout editor with physics-based simulations for real-time collision boundaries.</li>
         <li><b>Access Control:</b> Architected multi-tenant authentication for sharing dynamic, editable workspaces[cite: 1].</li>
-        <li><b>Automation:</b> Built a server-side engine to render and export structural design grids into high-fidelity PDFs with area measurements[cite: 1].</li>
+        <li><b>Automation:</b> Built a server-side engine to render and export structural design grids into high-fidelity PDFs with area measurements.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">💰 SpendSmart Platform</h3>
-      <p><i>Next.js, PostgreSQL, Drizzle ORM, Supabase</i>[cite: 1]</p>
+      <p><i>Next.js, PostgreSQL, Drizzle ORM, Supabase</i></p>
       <ul>
-        <li><b>Data Integrity:</b> Leveraged Drizzle ORM to design strict relational database schemas and automated migrations[cite: 1].</li>
-        <li><b>Performance Infrastructure:</b> Implemented stateless user authentication and real-time ledger mutation tracking[cite: 1].</li>
-        <li><b>Global Scale:</b> Deployed on Vercel to maintain sub-second serverless execution cycles[cite: 1].</li>
+        <li><b>Data Integrity:</b> Leveraged Drizzle ORM to design strict relational database schemas and automated migrations.</li>
+        <li><b>Performance Infrastructure:</b> Implemented stateless user authentication and real-time ledger mutation tracking.</li>
+        <li><b>Global Scale:</b> Deployed on Vercel to maintain sub-second serverless execution cycles.</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td colspan="2" valign="top">
       <h3 align="center">📺 ViewTube (Media Streaming)</h3>
-      <p align="center"><i>Next.js, Node.js, Vercel</i>[cite: 1]</p>
+      <p align="center"><i>Next.js, Node.js, Vercel</i></p>
       <ul>
-        <li><b>Fluid Streaming Pipelines:</b> Built a client application optimized for minimal layout shifts (CLS), performant sequential media buffering, and dynamic video indexing[cite: 1].</li>
-        <li><b>State Orchestration:</b> Implemented unified authentication middleware and secure data handling to manage state serialization across high-concurrency sessions[cite: 1].</li>
+        <li><b>Fluid Streaming Pipelines:</b> Built a client application optimized for minimal layout shifts (CLS), performant sequential media buffering, and dynamic video indexing.</li>
+        <li><b>State Orchestration:</b> Implemented unified authentication middleware and secure data handling to manage state serialization across high-concurrency sessions.</li>
       </ul>
     </td>
   </tr>
